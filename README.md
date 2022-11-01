@@ -6,7 +6,7 @@ I am a MSc student in Computer Engineerging program of Bogazici University and I
 
 - 🔭 I’m currently working at [Ford Otosan](https://www.linkedin.com/company/ford-otosan/mycompany/verification/)
 
-- 📝 I regularly write articles on [www.goktugocal.com](www.goktugocal.com)
+- 📝 I regularly write articles on [goktugocal.com](https://www.goktugocal.com)
 
 - 💬 Ask me about **Python**
 
