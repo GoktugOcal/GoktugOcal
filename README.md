@@ -1,6 +1,6 @@
 <h1 align="center">Hi There👋</h1>
 
-Hello, my name is Göktuğ and I am a 25 years old Data Scientist from Istanbul.
+Hello, my name is Göktuğ and I am a 25 years old Data Scientist from Istanbul. Trying to contribute to the community.
 
 I am a MSc student in Computer Engineerging program of Bogazici University and I a recently working as a Data Scientist at Ford Otosan. I have graduated from Control and Automation Engineering undergraduate program of Istanbul Technical University.
 
