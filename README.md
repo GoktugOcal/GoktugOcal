@@ -12,6 +12,7 @@ I am a MSc student in Computer Engineerging program of Bogazici University and I
 
 ## 📰 Latest blog posts
 
+- [Neural Architecture Search (NAS) - Review, Research](https://www.goktugocal.com/2023/03/16/Neural-Architecture-Search.html)
 - [Hidden Technical Debt in Machine Learning Systems](https://www.goktugocal.com/2023/02/03/Hidden-Technical-Debt-in-Machine-Learning-Systems.html)
 - [Why AI is Harder Than We Think?](https://www.goktugocal.com/2022/09/09/Why-AI-is-Harder-Than-We-Think.html)
 
