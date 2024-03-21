@@ -4,7 +4,7 @@ Hello, my name is Göktuğ and I am a 26 years old Data Scientist from Istanbul.
 
 I am a MSc student in Computer Engineerging program of Bogazici University and I am recently working as a Data Scientist at Ford Otosan. I have graduated from Control and Automation Engineering undergraduate program of Istanbul Technical University.
 
-- 🔭 I’m currently working at [Ford Otosan](https://www.linkedin.com/company/ford-otosan/mycompany/verification/)
+- 🔭 I’m currently working at [Daikin Europe](https://www.linkedin.com/company/daikin-europe-nv)
 
 - 📝 I regularly write articles on [goktugocal.com](https://www.goktugocal.com)
 
