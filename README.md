@@ -1,8 +1,8 @@
 <h1 align="center">Hi There👋</h1>
 
-Hello, my name is Göktuğ and I am a 26 years old Data Scientist from Istanbul. Trying to contribute to the community.
+Hello, my name is Göktuğ and I am a 27 years old Data Scientist from Istanbul. Trying to contribute to the community.
 
-I am a MSc student in Computer Engineerging program of Bogazici University and I am recently working as a Data Scientist at Ford Otosan. I have graduated from Control and Automation Engineering undergraduate program of Istanbul Technical University.
+I am  as a Data Scientist at Daikin Europe. I have MSc degree in Computer Engineerging in Bogazici University and have graduated from Control and Automation Engineering undergraduate program of Istanbul Technical University.
 
 - 🔭 I’m currently working at [Daikin Europe](https://www.linkedin.com/company/daikin-europe-nv)
 
