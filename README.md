@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋</h1>
+<h1 align="center">Hi 👽</h1>
 
 Hello, my name is Göktuğ and I am a 27 years old Data Scientist from Ghent, Belgium. Trying to contribute to the community.
 
