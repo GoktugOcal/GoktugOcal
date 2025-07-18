@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👽</h1>
 
-Hello, my name is Göktuğ and I am a 27 years old Data Scientist from Ghent, Belgium. Trying to contribute to the community.
+Hello, my name is Göktuğ and I am a 28 years old Data Scientist from Ghent, Belgium. Trying to contribute to the community.
 
 I am  as a Data Scientist at Daikin Europe. I have MSc degree in Computer Engineerging in Bogazici University and have graduated from Control and Automation Engineering undergraduate program of Istanbul Technical University.
 
